@@ -2,4 +2,4 @@
 
 В рамках задачи был построен дашборд для формирования отчетности по количеству трудоустроенных в различных разрезах данных.
 
-https://datalens.yandex.ru/wd3aj0eigvhal-otchet-po-trudoustroystvu-bf-raul
+https://datalens.yandex/wd3aj0eigvhal
